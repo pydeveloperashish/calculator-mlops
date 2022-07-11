@@ -35,3 +35,5 @@ if __name__ == '__main__':
     operation.subtract()
     operation.multiply()
     operation.divide()
+    
+# Class methods
