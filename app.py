@@ -50,7 +50,8 @@ def math_operation_via_postman():
 
 if __name__ == '__main__':
     host ="127.0.0.1"
-    app.run(host=host, port=8080,debug=True)
+    port = 8080
+    app.run(host=host, port=port,debug=True)
 
 # Class Definitions for Flask Class by me 
 
