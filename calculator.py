@@ -36,4 +36,3 @@ if __name__ == '__main__':
     operation.multiply()
     operation.divide()
     
-# Class methods
